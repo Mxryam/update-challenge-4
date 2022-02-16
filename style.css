@@ -18,14 +18,17 @@ body{
     
    
      width: 825px;
-    margin: 0px auto;
-     padding:25px;
-     }
+     margin: 0px auto;
+     /* padding:25px; */
+ }
 
      .title{
          font-size: 20px;
           background-color: #f7f7f7;
           text-align: center;
+          margin-top: 0;
+          padding:20px;
+          text-transform: uppercase;
      }
 
 .price{
