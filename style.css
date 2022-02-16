@@ -2,11 +2,16 @@
     margin:0;
     padding:0px;
 }
+
 body{
    
     font-family: sans-serif;
     line-height: 1.4;
      border:2px solid black;
+     margin: 20px auto;
+     padding:25px;
+     width: 425px;
+
    
 }
 
