@@ -23,6 +23,21 @@ body{
      position:relative;
  }
 
+ .sale{
+    background-color:red;
+    color:#fff;
+   
+    font-size:14px;
+    text-transform:uppercase;
+    font-size:bold;
+    padding:5px 13px;
+    display:inline;
+    position:absolute;
+    letter-spacing:2px;
+   top:-17px;
+   left:-35px;
+}
+
      .title{
          font-size: 20px;
           background-color: #f7f7f7;
