@@ -17,9 +17,10 @@ body{
      border:2px solid black;
     
    
-     width: 825px;
-     margin: 0px auto;
+     width: 625px;
+     margin: 50px auto;
      /* padding:25px; */
+     position:relative;
  }
 
      .title{
