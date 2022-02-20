@@ -121,9 +121,14 @@ body{
 .product-details{
     
     margin-top:30px;
-    flex:1;
+  flex:1;
 }
 
+.detail-titles{
+    text-transform: uppercase;
+     font-size:20px;
+   margin-bottom:20px;
+ }
 
 .product-list{
     list-style: square;
