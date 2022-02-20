@@ -67,10 +67,12 @@ body{
     color:gray;
 }
 
-img{
+.product-img{
     width: 150px;
     height:150px;
-    display:block;
+    margin-right:30px;
+  margin-bottom:30px;
+  flex:1;
    
 }
 
