@@ -39,7 +39,7 @@ body{
    left:-35px;
 }
 
-     .title{
+     .product-title{
          font-size: 20px;
           background-color: #f7f7f7;
           text-align: center;
@@ -52,7 +52,15 @@ body{
     font-size:24px;
 }
 
-.shopping{
+.product-price{
+    display:flex;
+    justify-content:space-between ;
+    align-items: center;
+  margin-bottom:20px;
+   margin-top:30px;
+}
+
+.shipping{
     font-size:12px;
     text-transform: uppercase;
     font-weight: bold;
