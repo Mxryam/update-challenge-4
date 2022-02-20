@@ -76,16 +76,23 @@ body{
    
 }
 
-.info:link ,.info:visited  {
+.more-info:link ,.more-info:visited  {
 
     color:black;
     margin-bottom: 30px;
     display:inline-block;
 }
 
-.info:hover, .info:active{
+
+
+.more-info:hover, .more-info:active{
     text-decoration: none;
 }
+
+.product-colors{
+    display:flex;
+    gap:10px;
+  }
 
 .color{
     width:22px;
