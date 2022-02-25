@@ -22,6 +22,8 @@ body{
      margin: 100px auto;
      /* padding:25px; */
      position:relative;
+     display:grid;
+     grid-template-columns:repeat(3,1fr);
  }
 
  .sale{
@@ -46,6 +48,7 @@ body{
           margin-top: 0;
           padding:20px;
           text-transform: uppercase;
+          grid-column:1/-1;
      }
 
 .price{
@@ -117,9 +120,9 @@ body{
     background-color:brown;
 }
 
-.product-info{
-    /* flex:1;  */
-}
+ /* .product-info{
+    flex:1; 
+ }  */
 
 .product-details{
     
@@ -159,6 +162,7 @@ body{
       width:100%;
       font-size:20px;
       border-top:4px  solid black;
+      grid-column: 1/ -1;
  
  }
  /* .container{
