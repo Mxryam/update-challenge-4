@@ -118,13 +118,13 @@ body{
 }
 
 .product-info{
-    flex:1; 
+    /* flex:1;  */
 }
 
 .product-details{
     
     margin-top:30px;
-    flex:1; 
+    /* flex:1;  */
 }
 
 .detail-titles{
@@ -161,9 +161,9 @@ body{
       border-top:4px  solid black;
  
  }
- .container{
+ /* .container{
     display:flex; 
     justify-content:space-between;
     gap:10px;
   }
-  
+   */
